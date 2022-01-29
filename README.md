@@ -13,7 +13,7 @@
 <a href="https://twitter.com/atharvaj2160" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvaj2160" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/atharva joshi" target="_blank">
+<a href="https://www.linkedin.com/in/arj2160/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atharva joshi" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/arj2160/" target="_blank">
