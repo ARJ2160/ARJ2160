@@ -1,12 +1,12 @@
-<h1 align="center"> Hi there 👋, My name is Atharva Joshi</h1>
+<h1 align="center"> Hey there, My name is Atharva Joshi</h1>
 
 <h2 align="center">Lets get to work!</h2>
 <h3 align="center">I am a passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **A React JS Blog website**
-- 🌱 I’m currently learning **GraphQL, NEXT JS, TypeScript and Tailwind CSS**
-- 👯 I’m looking to collaborate on **An online NFT showroom of sorts**
-- 🤔 I’m looking for help with Apollo GraphQL
+- I’m currently working on **A React JS Blog website**
+- I’m currently learning **GraphQL, NEXT JS, TypeScript and Tailwind CSS**
+- I’m looking to collaborate on **An online NFT showroom of sorts**
+- I’m looking for help with **Apollo GraphQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
