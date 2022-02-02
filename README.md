@@ -1,7 +1,7 @@
 <h1 align="center"> Hey there, My name is Atharva Joshi</h1>
 
 <h2 align="center">Lets get to work!</h2>
-<h3 align="center">I am a passionate web developer from India</h3>
+<h3 align="center">I am a passionate Web Developer from India</h3>
 
 - I’m currently working on **A React JS Blog website**
 - I’m currently learning **GraphQL, NEXT JS, TypeScript and Tailwind CSS**
