@@ -20,7 +20,7 @@
     <img align="center" alt="ARJ's Spotify" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
   </a>
    <a href="https://arj-portfolio.vercel.app/" target="_blank">
-    <img align="center" alt="ARJ's Website" height="30" width="40" src="https://brandeps.com/icon-download/C/Code-icon-vector-07.svg" />
+    <img align="center" alt="ARJ's Website" height="30" width="40" src="https://www.nicepng.com/png/full/128-1285086_green-icon-code-back-flat-icon-png.png" />
   </a>
 </p>
 
