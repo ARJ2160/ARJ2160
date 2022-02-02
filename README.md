@@ -10,15 +10,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atharvaj2160" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvaj2160" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/arj2160/" target="_blank">
-  <img align="center" alt="ARJ's LinkedIN" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/playlist/52gtDapY50kKkLEnnnvYgz?si=89f44d4ce2944b91" target="_blank">
-  <img align="center" alt="ARJ's Spotify" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+  <a href="https://twitter.com/atharvaj2160" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvaj2160" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/arj2160/" target="_blank">
+    <img align="center" alt="ARJ's LinkedIN" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+  <a href="https://open.spotify.com/playlist/52gtDapY50kKkLEnnnvYgz?si=89f44d4ce2944b91" target="_blank">
+    <img align="center" alt="ARJ's Spotify" height="30" width="40" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  </a>
+   <a href="https://arj-portfolio.vercel.app/" target="_blank">
+    <img align="center" alt="ARJ's Website" height="30" width="40" src="https://brandeps.com/icon-download/C/Code-icon-vector-07.svg" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
