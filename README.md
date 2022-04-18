@@ -1,6 +1,5 @@
 <h1 align="center"> Hey there, My name is Atharva Joshi <img width="25" height="25" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"></img></h1>
 
-<h2 align="center">Lets get to work!</h2>
 <h3 align="center">I am a passionate Web Developer from India</h3>
 
 - I’m currently working on **A React JS Blog website**
