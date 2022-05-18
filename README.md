@@ -2,8 +2,8 @@
 
 <h3 align="center">I am a passionate Web Developer from India</h3>
 
-- I’m currently working on **A React JS Blog website**
-- I’m currently learning **GraphQL, NEXT JS, TypeScript and Tailwind CSS**
+- I’m currently working on **A NEXT JS Portfolio**
+- I’m currently learning **GraphQL, Solidity, and Web3**
 - I’m looking to collaborate on **An online NFT showroom of sorts**
 - I’m looking for help with **Apollo GraphQL**
 
