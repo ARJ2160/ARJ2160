@@ -12,7 +12,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvaj2160" height="30" width="30" />
   </a>
   <a href="https://www.linkedin.com/in/arj2160/" target="_blank">
-    <img align="center" alt="ARJ's LinkedIN" height="30" width="30" src="https://cdn.cdnlogo.com/logos/l/74/linkedin.svg" />
+    <img align="center" alt="ARJ's LinkedIN" height="30" width="30" src="https://cdn.cdnlogo.com/logos/l/15/linkedin-2013.svg" />
   </a>
   <a href="https://open.spotify.com/playlist/52gtDapY50kKkLEnnnvYgz?si=89f44d4ce2944b91" target="_blank">
     <img align="center" alt="ARJ's Spotify" height="30" width="30" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" />
