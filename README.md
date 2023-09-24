@@ -17,7 +17,7 @@
   <a href="https://open.spotify.com/playlist/52gtDapY50kKkLEnnnvYgz?si=89f44d4ce2944b91" target="_blank">
     <img align="center" alt="ARJ's Spotify" height="30" width="30" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" />
   </a>
-   <a href="https://arj-portfolio.vercel.app/" target="_blank">
+   <a href="https://www.atharvaj.online/" target="_blank">
     <img align="center" alt="ARJ's Website" height="30" width="30" src="https://www.nicepng.com/png/full/128-1285086_green-icon-code-back-flat-icon-png.png" />
   </a>
 </p>
