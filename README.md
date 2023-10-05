@@ -4,7 +4,7 @@
 
 - I’m currently working on **MIT Scratch Clone**
 - I’m looking to collaborate on **An online NFT showroom of sorts**
-- I’m looking for help with **Apollo GraphQL**
+- I’m looking for help with **Open Source Contributions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
