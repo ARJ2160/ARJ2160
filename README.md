@@ -68,3 +68,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arj2160&show_icons=true&locale=en" alt="arj2160" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arj2160&label=Profile%20views&color=0e75b6&style=flat" alt="arj2160" /> </p>
+
+[![An image of @arj2160's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arj2160)](https://holopin.io/@arj2160)
