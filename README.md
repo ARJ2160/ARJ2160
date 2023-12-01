@@ -1,8 +1,9 @@
 <h1 align="center">Hey there, My name is Atharva Joshi<img width="25" height="25" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif"></img></h1>
 
-<h3 align="center">I am a MERN Developer from India</h3>
+<h3 align="center">I am a MERN Stack Developer from India</h3>
 
 - I’m currently working on **MIT Scratch Clone**
+- I’m currently learning **Devops with Jenkins, Docker and Kubernetes**
 - I’m looking to collaborate on **An online NFT showroom of sorts**
 - I’m looking for help with **Open Source Contributions**
 
