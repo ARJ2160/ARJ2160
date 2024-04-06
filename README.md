@@ -2,8 +2,8 @@
 
 <h3 align="center">I am a MERN Stack Developer from India</h3>
 
-- I’m currently working on **MIT Scratch Clone**
-- I’m currently learning **Devops with Jenkins, Docker and Kubernetes**
+- I’m currently working on **Full Stack Projects**
+- I’m currently learning **DSA in JavaScript and Full Stack Development**
 - I’m looking to collaborate on **An online NFT showroom of sorts**
 - I’m looking for help with **Open Source Contributions**
 
@@ -67,5 +67,8 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arj2160&show_icons=true&locale=en" alt="arj2160" /></p>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65efcc89fa39e177085f88a0?variant=dark)](https://roadmap.sh)
+
 
 [![An image of @arj2160's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arj2160)](https://holopin.io/@arj2160)
